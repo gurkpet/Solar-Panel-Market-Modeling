@@ -3,4 +3,5 @@
 Scrape_Nrel_Solar.py linguist-vendored
 scrape census.gov.py linguist-vendored
 3classmarketpredictionwithtrain.html linguist-vendored
-Model_with_training_data.jpg linguist-vendored
+Model_with_training_data.jpg 
+3classmarketpredictionalltrain.html linguist-vendored
