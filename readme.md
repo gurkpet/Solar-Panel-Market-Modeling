@@ -1,3 +1,5 @@
+# Predicting Solar Panel Installation Markets
+
 In this project a model was built using demographic data including median age, home value, income, as well as percent of homes lived in by owner and enviornmental data referencing amount of solar radiation for each zip code in the model with the intent of identifying zip codes where the population had a higher rate of solar panels per capita than the rest of the country, thus ideally identifying markets where the sale of solar panels would be easier than others.
 
 In this project a [2 class version of the map](http://htmlpreview.github.io/?https://github.com/gurkpet/Solar-Panel-Market-Modeling/blob/master/2classmarketprediction.html) and a [3 class version of the map](http://htmlpreview.github.io/?https://github.com/gurkpet/Solar-Panel-Market-Modeling/blob/master/3classmarketprediction.html) were generated.  Green and red in both maps identifying good and bad markets respectively.  In the 3 class version a medium market class was added to indentify markets that straddle the line between the two classes.  
