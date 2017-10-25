@@ -18,7 +18,7 @@ Also generated is a [3 class version of the map, training data included in plott
 ![This was a fun project, thanks for checking it out](Model_with_training_data.jpg?raw=true "3 class version of the map, training data included in plotting")
 
 
-As contrast [here is a plot of just the training data](https://github.com/gurkpet/Solar-Panel-Market-Modeling/blob/master/3classmarketpredictionalltrain.html)  Like the map with the training and predicted data together this map must be downloaded locally to view.  Image prepared below for convience.
+As a contrast [here is a plot of just the training data](https://github.com/gurkpet/Solar-Panel-Market-Modeling/blob/master/3classmarketpredictionalltrain.html)  Like the map with the training and predicted data together this map must be downloaded locally to view.  Image prepared below for convenience.
 
 # Training data plotted for contrast
 ![This was a fun project, thanks for checking it out](Model_just_training_data.jpg?raw=true "3 class version of the map, just the training data in the model")
