@@ -1,3 +1,9 @@
+#scrape all zip codes available for: 
+#B25008_001E : populiation of zip
+#B01002_001E : median age of zip
+#B25119_001E : meidan income of zip
+#B25008_002E : owners occupying residence
+data = c.acs5.zipcode(['B25008_001E','B01002_001E','B25119_001E', 'B25008_002E'], Census.ALL)
 #lists to hold the data being scraped
 zipcode = []
 population = []
